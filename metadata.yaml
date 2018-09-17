@@ -1,5 +1,5 @@
 _repo: The-Inner-Flame-A-Novel_52240
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lowell, Orson
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1956
     gutenberg_agent_id: '8723'
     url: http://www.gutenberg.org/2009/agents/8723
+covers:
+- cover_type: archival
+  image_path: 52240-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnham, Clara Louise
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '1017'
     url: http://www.gutenberg.org/2009/agents/1017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52240#The-Inner-Flame-A-Novel
 gutenberg_issued: '2016-06-05'
 gutenberg_type: Text
 identifiers:
